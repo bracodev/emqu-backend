@@ -2,6 +2,9 @@
 - Brayan Rincón
 - [LinkedIn](https://www.linkedin.com/in/bracodev)
 
+[<img src="https://raw.githubusercontent.com/bracodev/emqu-backend/main/public/preview.gif" width="50%">](https://raw.githubusercontent.com/bracodev/emqu-backend/main/public/preview.webm "Preview")
+
+
 ## Requisitos para el Backend
 
 - Docker
