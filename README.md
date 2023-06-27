@@ -2,8 +2,12 @@
 - Brayan Rincón
 - [LinkedIn](https://www.linkedin.com/in/bracodev)
 
-[<img src="https://raw.githubusercontent.com/bracodev/emqu-backend/main/public/preview.gif" width="50%">](https://raw.githubusercontent.com/bracodev/emqu-backend/main/public/preview.webm "Preview")
 
+[<img src="https://raw.githubusercontent.com/bracodev/emqu-backend/main/public/preview.gif" width="100%">](https://raw.githubusercontent.com/bracodev/emqu-backend/main/public/preview.webm "Preview")
+
+# Repositorios
+- [Backend](https://github.com/bracodev/emqu-backend)
+- [Frontend](https://github.com/bracodev/emqu-frotend)
 
 ## Requisitos para el Backend
 
